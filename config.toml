@@ -1,0 +1,15 @@
+baseURL = "http://madhome.github.io/"
+languageCode = "en-us"
+title = "Mon blog"
+theme = "hugo-theme-massively"
+publishDir = "docs"
+
+[languages]
+[languages.fr]
+  languageName = "Français"
+  title = "Chez Mado"
+[languages.en]
+  languageName = "English"
+  title = "Mado's place"
+
+
