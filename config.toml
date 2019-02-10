@@ -1,4 +1,4 @@
-baseURL = "http://madhome.github.io/"
+baseURL = "https://madhome.github.io/blog/"
 languageCode = "en-us"
 title = "Mon blog"
 theme = "hugo-theme-massively"

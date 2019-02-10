@@ -3,76 +3,76 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://madhome.github.io/blog/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/categories/"
+                href="https://madhome.github.io/blog/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://madhome.github.io/blog/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://madhome.github.io/blog/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/"
+                href="https://madhome.github.io/blog/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://madhome.github.io/blog/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://madhome.github.io/blog/post/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/post/"
+                href="https://madhome.github.io/blog/fr/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/post/"
+                href="https://madhome.github.io/blog/post/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://madhome.github.io/blog/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/tags/"
+                href="https://madhome.github.io/blog/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://madhome.github.io/blog/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/post1/</loc>
+    <loc>https://madhome.github.io/blog/post/post1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/post/post1/"
+                href="https://madhome.github.io/blog/fr/post/post1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/post/post1/"
+                href="https://madhome.github.io/blog/post/post1/"
                 />
   </url>
   

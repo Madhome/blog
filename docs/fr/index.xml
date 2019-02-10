@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chez Mado</title>
-    <link>http://localhost:1313/fr/</link>
+    <link>https://madhome.github.io/blog/fr/</link>
     <description>Recent content on Chez Mado</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 09 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/fr/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://madhome.github.io/blog/fr/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mon premier article en français</title>
-      <link>http://localhost:1313/fr/post/post1/</link>
+      <link>https://madhome.github.io/blog/fr/post/post1/</link>
       <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/post/post1/</guid>
+      <guid>https://madhome.github.io/blog/fr/post/post1/</guid>
       <description>Premier titre Ceci est un exemple de blog pour découvrir Hugo et la publication d&amp;rsquo;un site internet. Et si nous structurions ce document ?
 Titre de niveau 2 Et on peut meme faire des listes :
  premier élément deuxième élément troisième élément  Ou bien des listes numérotées :
