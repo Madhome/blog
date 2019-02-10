@@ -6,10 +6,20 @@
     <description>Recent content on Chez Mado</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://madhome.github.io/blog/fr/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mon premier jeu-vidéo</title>
+      <link>https://madhome.github.io/blog/fr/post/post.2/</link>
+      <pubDate>Sun, 10 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://madhome.github.io/blog/fr/post/post.2/</guid>
+      <description>TIC-80, c&amp;rsquo;est quoi? TIC-80 permet de créer des jeux vidéos. Pour en créer un (pour les pressés qui veulent en faire tout de suite) on clique sur &amp;ldquo;Create&amp;rdquo; puis sur &amp;ldquo;CLICK TO START&amp;hellip;&amp;rdquo; et après c&amp;rsquo;est à vous de jouer (ou plutot de créer).
+TIC-80, c&amp;rsquo;est en anglais (si vous avez Google Trad c&amp;rsquo;est cool! blague) donc si vous etes des (petits) français (comme moi (j&amp;rsquo;ai quasimment 12 ans)) et que vous ne parlez pas français, et bien faites vous aider.</description>
+    </item>
     
     <item>
       <title>Mon premier article en français</title>
