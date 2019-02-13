@@ -15,7 +15,7 @@ vous de jouer (ou plutot de créer).
 
 TIC-80, c'est en anglais (si vous avez Google Trad c'est cool!
 *blague*) donc si vous etes des (petits) français (comme moi (j'ai
-quasimment 12 ans)) et que vous ne parlez pas français, et bien faites
+quasimment 12 ans)) et que vous ne parlez pas anglais, et bien faites
 vous aider.
 
 Moi, j'ai tout fait avec mon père. Il m'a vraiment beaucoup aidé, je
@@ -38,6 +38,8 @@ et quand il y a une loupe, mettre SA main gauche sur la loupe.
 
 # Jouer!
 
-Clique là pour jouer maintenant!!
+Clique là pour [jouer maintenant](/blog/TIC/jeu-1-mado.html)!
 
-[Jeu](/blog/TIC/jeu-1-mado.html)
+# Le télécharger...
+
+Clique là pour [télécharger mon jeu](/blog/TIC/jeu-1-mado.tic)!
